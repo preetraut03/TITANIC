@@ -1,0 +1,2 @@
+# TITANIC
+MultinomialNB:  0.825938566552901
